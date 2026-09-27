@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Event Social Kit & Post Generator",
+  "description": "Empower event organizers and attendees to craft, optimize, and share high-converting LinkedIn posts and social buzz in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
